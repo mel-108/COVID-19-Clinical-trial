@@ -123,9 +123,8 @@ The project includes comprehensive visualizations and analysis of:
 
 ## Clone the Repository
 
-```bash
+
 git clone https://github.com/mel-108/COVID-19-Clinical-trial.git
-```
 
 ## Navigate to the Project
 
