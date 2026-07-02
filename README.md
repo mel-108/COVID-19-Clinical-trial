@@ -119,12 +119,12 @@ The project includes comprehensive visualizations and analysis of:
 - Clinical trial activity increased significantly during the pandemic.
 - Most studies fall within **Phase 2** and **Phase 3**, reflecting the rapid evaluation of treatments and vaccines
 
-# 🚀 Getting Started
+#  Getting Started
 
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/mel-108/COVID-Clinical-Trials-Analysis.git
+git clone https://github.com/mel-108/COVID-19-Clinical-trial.git
 ```
 
 ## Navigate to the Project
